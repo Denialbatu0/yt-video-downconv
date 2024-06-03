@@ -1,4 +1,4 @@
-# YouTube Video Downloader
+# YouTube Video Download
 
 Bu proje, YouTube'dan video ve ses dosyalarını indirmenize olanak tanır. 
 
